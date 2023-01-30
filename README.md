@@ -7,7 +7,7 @@ IT Student and Developer
 *   🌍  I'm based in Germany
 *   🚀  I'm currently working on Some web projects
 *   ✨  My Inetrests are Astrophotography and playing Handball
-*   🤞   My Latest Release is the [RiotAccountManager](http://https://github.com/Pantastix/RiotAccountManager)
+*   🤞   My Latest Release is the [RiotAccountManager](https://github.com/Pantastix/RiotAccountManager)
 *   🧠  I'm learning Kotlin
 
 ### Skills
