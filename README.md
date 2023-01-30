@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Student and Developer
 ------------------------
 
-*   🌍  I'm based in Germany
-*   🚀  I'm currently working on Some web projects
-*   ✨  My Inetrests are Astrophotography and playing Handball
-*   🤞   My Latest Release is the [RiotAccountManager](https://github.com/Pantastix/RiotAccountManager)
-*   🧠  I'm learning Kotlin
+*   🌍  I'm stationed in Germany
+*   🚀  I'm currently working on some web projects
+*   ✨  My interests include astrophotography and playing handball
+*   🤞   My latest release is the [RiotAccountManager](https://github.com/Pantastix/RiotAccountManager)
+*   🧠  I'm currently learning Kotlin
 
 ### Skills
 <p align="left">
