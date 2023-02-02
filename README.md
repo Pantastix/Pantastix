@@ -8,7 +8,7 @@ IT Student and Developer
 *   🚀  I'm currently working on some web projects
 *   ✨  My interests include astrophotography and playing handball
 *   🤞   My latest release is the [RiotAccountManager](https://github.com/Pantastix/RiotAccountManager)
-*   🧠  I'm currently learning Kotlin
+*   🧠  I'm currently learning Kotlin and JavaScript
 
 ### Skills
 <p align="left">
