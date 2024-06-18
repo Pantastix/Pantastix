@@ -7,7 +7,7 @@ IT Student and Developer
 *   🌍  I'm stationed in Germany
 *   🚀  I'm currently working on a health mobile app
 *   ✨  My interests include astrophotography and playing handball
-*   🤞   My latest release is the [RiotAccountManager](https://github.com/Pantastix/RiotAccountManager)
+*   🤞   My latest release is the [GoogleFormsAnalyser](https://github.com/Pantastix/RiotAccountManager)
 *   🧠  I'm currently learning Flutter
 
 ### Skills
